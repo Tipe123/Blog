@@ -1,6 +1,9 @@
-# README
+# Blog App
 
-This README would normally document whatever steps are necessary to get the
+Hello my name is tipe
+This is my first Blog ruby on rails App
+
+<!-- This README would normally document whatever steps are necessary to get the
 application up and running.
 
 Things you may want to cover:
@@ -22,3 +25,4 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+ -->
